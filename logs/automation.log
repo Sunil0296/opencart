@@ -1,0 +1,24 @@
+2025-06-11 21:09:05 INFO  TC_001AccountRegistration_Test:25 - ******starting testcase*********
+2025-06-11 21:09:05 INFO  TC_001AccountRegistration_Test:29 - ******clicking on my account*********
+2025-06-11 21:09:06 INFO  TC_001AccountRegistration_Test:32 - ******clicked on Register*********
+2025-06-11 21:09:06 INFO  TC_001AccountRegistration_Test:36 - ******providing user details*********
+2025-06-11 21:09:09 INFO  TC_001AccountRegistration_Test:47 - ******validating expected message*********
+2025-06-11 21:09:09 INFO  TC_001AccountRegistration_Test:62 - ******finished testcase*********
+2025-06-11 21:09:14 INFO  TC002_Login_Test:18 - ********Starting TC002_Login_Test ************
+2025-06-11 21:09:16 INFO  TC002_Login_Test:47 - ********Finishing TC002_Login_Test ************
+2025-06-11 21:20:27 INFO  TC_001AccountRegistration_Test:25 - ******starting testcase*********
+2025-06-11 21:20:27 INFO  TC_001AccountRegistration_Test:29 - ******clicking on my account*********
+2025-06-11 21:20:28 INFO  TC_001AccountRegistration_Test:32 - ******clicked on Register*********
+2025-06-11 21:20:28 INFO  TC_001AccountRegistration_Test:36 - ******providing user details*********
+2025-06-11 21:20:31 INFO  TC_001AccountRegistration_Test:47 - ******validating expected message*********
+2025-06-11 21:20:32 INFO  TC_001AccountRegistration_Test:62 - ******finished testcase*********
+2025-06-11 21:20:36 INFO  TC002_Login_Test:18 - ********Starting TC002_Login_Test ************
+2025-06-11 21:20:39 INFO  TC002_Login_Test:47 - ********Finishing TC002_Login_Test ************
+2025-06-11 21:31:44 INFO  TC_001AccountRegistration_Test:25 - ******starting testcase*********
+2025-06-11 21:31:44 INFO  TC_001AccountRegistration_Test:29 - ******clicking on my account*********
+2025-06-11 21:31:45 INFO  TC_001AccountRegistration_Test:32 - ******clicked on Register*********
+2025-06-11 21:31:45 INFO  TC_001AccountRegistration_Test:36 - ******providing user details*********
+2025-06-11 21:31:48 INFO  TC_001AccountRegistration_Test:47 - ******validating expected message*********
+2025-06-11 21:31:48 INFO  TC_001AccountRegistration_Test:62 - ******finished testcase*********
+2025-06-11 21:31:52 INFO  TC002_Login_Test:18 - ********Starting TC002_Login_Test ************
+2025-06-11 21:31:55 INFO  TC002_Login_Test:47 - ********Finishing TC002_Login_Test ************
